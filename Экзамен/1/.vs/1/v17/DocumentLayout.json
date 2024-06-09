@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\exam\\1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D00D035E-5CCE-494C-9FD6-F4FBEABFC99A}|21\\21.csproj|c:\\users\\user\\desktop\\exam\\1\\21\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00D035E-5CCE-494C-9FD6-F4FBEABFC99A}|21\\21.csproj|solutionrelative:21\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00D035E-5CCE-494C-9FD6-F4FBEABFC99A}|21\\21.csproj|c:\\users\\user\\desktop\\exam\\1\\21\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D00D035E-5CCE-494C-9FD6-F4FBEABFC99A}|21\\21.csproj|solutionrelative:21\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00D035E-5CCE-494C-9FD6-F4FBEABFC99A}|21\\21.csproj|c:\\users\\user\\desktop\\exam\\1\\21\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D00D035E-5CCE-494C-9FD6-F4FBEABFC99A}|21\\21.csproj|solutionrelative:21\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719E04CE-5B48-4555-B6A6-83C3F923025B}|task5\\task5.csproj|c:\\users\\user\\desktop\\exam\\1\\task5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{719E04CE-5B48-4555-B6A6-83C3F923025B}|task5\\task5.csproj|solutionrelative:task5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719E04CE-5B48-4555-B6A6-83C3F923025B}|task5\\task5.csproj|C:\\Users\\user\\Desktop\\exam\\1\\task5\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{719E04CE-5B48-4555-B6A6-83C3F923025B}|task5\\task5.csproj|solutionrelative:task5\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43748740-1E10-4042-80DD-F9EA8F6BEA6B}|task3\\task3.csproj|C:\\Users\\user\\Desktop\\exam\\1\\task3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43748740-1E10-4042-80DD-F9EA8F6BEA6B}|task3\\task3.csproj|solutionrelative:task3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070A746B-6EEC-4980-9BEB-3BCE6C3D06D8}|task2\\task2.csproj|C:\\Users\\user\\Desktop\\exam\\1\\task2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070A746B-6EEC-4980-9BEB-3BCE6C3D06D8}|task2\\task2.csproj|solutionrelative:task2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A749B864-25C8-470E-ACC1-C4466F3190E5}|task1\\task1.csproj|C:\\Users\\user\\Desktop\\exam\\1\\task1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A749B864-25C8-470E-ACC1-C4466F3190E5}|task1\\task1.csproj|solutionrelative:task1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC6C7CE-B85F-459A-9839-4960BFB8221F}|exam3\\exam3.csproj|C:\\Users\\user\\Desktop\\exam\\1\\exam3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9DC6C7CE-B85F-459A-9839-4960BFB8221F}|exam3\\exam3.csproj|solutionrelative:exam3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60938B17-2BCD-4712-BE30-3914262D4C4B}|exam2\\exam2.csproj|C:\\Users\\user\\Desktop\\exam\\1\\exam2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60938B17-2BCD-4712-BE30-3914262D4C4B}|exam2\\exam2.csproj|solutionrelative:exam2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5728658B-E3DC-47BC-BE5F-0ED9B6D6AA60}|exam1\\exam1.csproj|C:\\Users\\user\\Desktop\\exam\\1\\exam1\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{5728658B-E3DC-47BC-BE5F-0ED9B6D6AA60}|exam1\\exam1.csproj|solutionrelative:exam1\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5728658B-E3DC-47BC-BE5F-0ED9B6D6AA60}|exam1\\exam1.csproj|C:\\Users\\user\\Desktop\\exam\\1\\exam1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5728658B-E3DC-47BC-BE5F-0ED9B6D6AA60}|exam1\\exam1.csproj|solutionrelative:exam1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5728658B-E3DC-47BC-BE5F-0ED9B6D6AA60}|exam1\\exam1.csproj|C:\\Users\\user\\Desktop\\exam\\1\\exam1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5728658B-E3DC-47BC-BE5F-0ED9B6D6AA60}|exam1\\exam1.csproj|solutionrelative:exam1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A452CCFC-9B77-4798-9265-4F89ACF90F33}|32\\32.csproj|C:\\Users\\user\\Desktop\\exam\\1\\32\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A452CCFC-9B77-4798-9265-4F89ACF90F33}|32\\32.csproj|solutionrelative:32\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A452CCFC-9B77-4798-9265-4F89ACF90F33}|32\\32.csproj|C:\\Users\\user\\Desktop\\exam\\1\\32\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A452CCFC-9B77-4798-9265-4F89ACF90F33}|32\\32.csproj|solutionrelative:32\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDAD1C1-482F-4B87-ACD8-4A9EBDA2B50B}|23\\23.csproj|C:\\Users\\user\\Desktop\\exam\\1\\23\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDAD1C1-482F-4B87-ACD8-4A9EBDA2B50B}|23\\23.csproj|solutionrelative:23\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45F8CB-3880-4E65-B657-D9B28372A6CE}|22\\22.csproj|C:\\Users\\user\\Desktop\\exam\\1\\22\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45F8CB-3880-4E65-B657-D9B28372A6CE}|22\\22.csproj|solutionrelative:22\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C03122B-939C-49BF-9254-54AF95B343FA}|17\\17.csproj|C:\\Users\\user\\Desktop\\exam\\1\\17\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C03122B-939C-49BF-9254-54AF95B343FA}|17\\17.csproj|solutionrelative:17\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B308F868-06AD-4924-9C75-7219505EA25C}|16\\16.csproj|C:\\Users\\user\\Desktop\\exam\\1\\16\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B308F868-06AD-4924-9C75-7219505EA25C}|16\\16.csproj|solutionrelative:16\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B308F868-06AD-4924-9C75-7219505EA25C}|16\\16.csproj|C:\\Users\\user\\Desktop\\exam\\1\\16\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B308F868-06AD-4924-9C75-7219505EA25C}|16\\16.csproj|solutionrelative:16\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A779CD6C-7D48-49EF-84C0-36EABAC10CFB}|15\\15.csproj|C:\\Users\\user\\Desktop\\exam\\1\\15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A779CD6C-7D48-49EF-84C0-36EABAC10CFB}|15\\15.csproj|solutionrelative:15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A779CD6C-7D48-49EF-84C0-36EABAC10CFB}|15\\15.csproj|C:\\Users\\user\\Desktop\\exam\\1\\15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A779CD6C-7D48-49EF-84C0-36EABAC10CFB}|15\\15.csproj|solutionrelative:15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6CD2A6-5FA0-48AE-8A44-08731B72ECF0}|14\\14.csproj|C:\\Users\\user\\Desktop\\exam\\1\\14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6CD2A6-5FA0-48AE-8A44-08731B72ECF0}|14\\14.csproj|solutionrelative:14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\1\\21\\Form1.cs",
+              "RelativeDocumentMoniker": "21\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\1\\21\\Form1.cs",
+              "RelativeToolTip": "21\\Form1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T10:21:39.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\1\\21\\Form1.cs",
+              "RelativeDocumentMoniker": "21\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\1\\21\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "21\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T10:21:37.611Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\1\\21\\App.config",
+              "RelativeDocumentMoniker": "21\\App.config",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\1\\21\\App.config",
+              "RelativeToolTip": "21\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-06T10:21:36.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\1\\task5\\Form1.cs",
+              "RelativeDocumentMoniker": "task5\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\1\\task5\\Form1.cs",
+              "RelativeToolTip": "task5\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T09:28:54.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\1\\task5\\packages.config",
+              "RelativeDocumentMoniker": "task5\\packages.config",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\1\\task5\\packages.config",
+              "RelativeToolTip": "task5\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-06T09:13:36.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\1\\task3\\Form1.cs",
+              "RelativeDocumentMoniker": "task3\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\1\\task3\\Form1.cs",
+              "RelativeToolTip": "task3\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:27:18.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\1\\task2\\Form1.cs",
+              "RelativeDocumentMoniker": "task2\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\1\\task2\\Form1.cs",
+              "RelativeToolTip": "task2\\Form1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:26:38.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\1\\task1\\Form1.cs",
+              "RelativeDocumentMoniker": "task1\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\1\\task1\\Form1.cs",
+              "RelativeToolTip": "task1\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:26:07.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\1\\exam1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "exam1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\1\\exam1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "exam1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:24:38.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\1\\exam1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "exam1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\1\\exam1\\MainWindow.xaml",
+              "RelativeToolTip": "exam1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T06:17:53.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\1\\exam1\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "exam1\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\1\\exam1\\AssemblyInfo.cs",
+              "RelativeToolTip": "exam1\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:17:52.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\1\\exam2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "exam2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\1\\exam2\\MainWindow.xaml",
+              "RelativeToolTip": "exam2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T06:17:45.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\1\\exam3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "exam3\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\1\\exam3\\MainWindow.xaml",
+              "RelativeToolTip": "exam3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T06:17:20.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\1\\32\\Form1.cs",
+              "RelativeDocumentMoniker": "32\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\1\\32\\Form1.cs",
+              "RelativeToolTip": "32\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:16:28.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\1\\32\\Form1.cs",
+              "RelativeDocumentMoniker": "32\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\1\\32\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "32\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:16:24.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\1\\23\\Form1.cs",
+              "RelativeDocumentMoniker": "23\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\1\\23\\Form1.cs",
+              "RelativeToolTip": "23\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:13:48.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\1\\22\\Form1.cs",
+              "RelativeDocumentMoniker": "22\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\1\\22\\Form1.cs",
+              "RelativeToolTip": "22\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:12:42.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\1\\17\\Form1.cs",
+              "RelativeDocumentMoniker": "17\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\1\\17\\Form1.cs",
+              "RelativeToolTip": "17\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:10:15.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\1\\16\\Form1.cs",
+              "RelativeDocumentMoniker": "16\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\1\\16\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "16\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:08:36.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\1\\16\\Form1.cs",
+              "RelativeDocumentMoniker": "16\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\1\\16\\Form1.cs",
+              "RelativeToolTip": "16\\Form1.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:08:34.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\1\\15\\Form1.cs",
+              "RelativeDocumentMoniker": "15\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\1\\15\\Form1.cs",
+              "RelativeToolTip": "15\\Form1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:07:49.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\1\\15\\Form1.cs",
+              "RelativeDocumentMoniker": "15\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\1\\15\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "15\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:07:40.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\1\\14\\Form1.cs",
+              "RelativeDocumentMoniker": "14\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\1\\14\\Form1.cs",
+              "RelativeToolTip": "14\\Form1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:06:49.946Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

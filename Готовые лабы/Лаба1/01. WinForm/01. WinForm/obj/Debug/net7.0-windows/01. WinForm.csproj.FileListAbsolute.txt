@@ -1,0 +1,32 @@
+C:\Users\user\Desktop\ООП\01. WinForm\01. WinForm\bin\Debug\net7.0-windows\01. WinForm.exe
+C:\Users\user\Desktop\ООП\01. WinForm\01. WinForm\bin\Debug\net7.0-windows\01. WinForm.deps.json
+C:\Users\user\Desktop\ООП\01. WinForm\01. WinForm\bin\Debug\net7.0-windows\01. WinForm.runtimeconfig.json
+C:\Users\user\Desktop\ООП\01. WinForm\01. WinForm\bin\Debug\net7.0-windows\01. WinForm.dll
+C:\Users\user\Desktop\ООП\01. WinForm\01. WinForm\bin\Debug\net7.0-windows\01. WinForm.pdb
+C:\Users\user\Desktop\ООП\01. WinForm\01. WinForm\obj\Debug\net7.0-windows\_01._WinForm.Form1.resources
+C:\Users\user\Desktop\ООП\01. WinForm\01. WinForm\obj\Debug\net7.0-windows\01. WinForm.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ООП\01. WinForm\01. WinForm\obj\Debug\net7.0-windows\01. WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ООП\01. WinForm\01. WinForm\obj\Debug\net7.0-windows\01. WinForm.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ООП\01. WinForm\01. WinForm\obj\Debug\net7.0-windows\01. WinForm.AssemblyInfo.cs
+C:\Users\user\Desktop\ООП\01. WinForm\01. WinForm\obj\Debug\net7.0-windows\01. WinForm.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ООП\01. WinForm\01. WinForm\obj\Debug\net7.0-windows\01. WinForm.dll
+C:\Users\user\Desktop\ООП\01. WinForm\01. WinForm\obj\Debug\net7.0-windows\refint\01. WinForm.dll
+C:\Users\user\Desktop\ООП\01. WinForm\01. WinForm\obj\Debug\net7.0-windows\01. WinForm.pdb
+C:\Users\user\Desktop\ООП\01. WinForm\01. WinForm\obj\Debug\net7.0-windows\01. WinForm.genruntimeconfig.cache
+C:\Users\user\Desktop\ООП\01. WinForm\01. WinForm\obj\Debug\net7.0-windows\ref\01. WinForm.dll
+C:\Users\user\Desktop\ООП\Готовые лабы\01. WinForm\01. WinForm\bin\Debug\net7.0-windows\01. WinForm.exe
+C:\Users\user\Desktop\ООП\Готовые лабы\01. WinForm\01. WinForm\bin\Debug\net7.0-windows\01. WinForm.deps.json
+C:\Users\user\Desktop\ООП\Готовые лабы\01. WinForm\01. WinForm\bin\Debug\net7.0-windows\01. WinForm.runtimeconfig.json
+C:\Users\user\Desktop\ООП\Готовые лабы\01. WinForm\01. WinForm\bin\Debug\net7.0-windows\01. WinForm.dll
+C:\Users\user\Desktop\ООП\Готовые лабы\01. WinForm\01. WinForm\bin\Debug\net7.0-windows\01. WinForm.pdb
+C:\Users\user\Desktop\ООП\Готовые лабы\01. WinForm\01. WinForm\obj\Debug\net7.0-windows\_01._WinForm.Form1.resources
+C:\Users\user\Desktop\ООП\Готовые лабы\01. WinForm\01. WinForm\obj\Debug\net7.0-windows\01. WinForm.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ООП\Готовые лабы\01. WinForm\01. WinForm\obj\Debug\net7.0-windows\01. WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ООП\Готовые лабы\01. WinForm\01. WinForm\obj\Debug\net7.0-windows\01. WinForm.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ООП\Готовые лабы\01. WinForm\01. WinForm\obj\Debug\net7.0-windows\01. WinForm.AssemblyInfo.cs
+C:\Users\user\Desktop\ООП\Готовые лабы\01. WinForm\01. WinForm\obj\Debug\net7.0-windows\01. WinForm.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ООП\Готовые лабы\01. WinForm\01. WinForm\obj\Debug\net7.0-windows\01. WinForm.dll
+C:\Users\user\Desktop\ООП\Готовые лабы\01. WinForm\01. WinForm\obj\Debug\net7.0-windows\refint\01. WinForm.dll
+C:\Users\user\Desktop\ООП\Готовые лабы\01. WinForm\01. WinForm\obj\Debug\net7.0-windows\01. WinForm.pdb
+C:\Users\user\Desktop\ООП\Готовые лабы\01. WinForm\01. WinForm\obj\Debug\net7.0-windows\01. WinForm.genruntimeconfig.cache
+C:\Users\user\Desktop\ООП\Готовые лабы\01. WinForm\01. WinForm\obj\Debug\net7.0-windows\ref\01. WinForm.dll

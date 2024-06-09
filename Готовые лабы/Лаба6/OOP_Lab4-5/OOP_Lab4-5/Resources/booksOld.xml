@@ -1,0 +1,45 @@
+﻿<?xml version="1.0"?>
+<Library xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<BooksList>
+		<Book>
+			<Title>Убийство в Восточном экспрессе</Title>
+			<Author>Агата Кристи</Author>
+			<Genre>Детектив</Genre>
+			<InStock>44</InStock>
+			<Rating>9</Rating>
+			<Photo>file:///C:/Users/user/Desktop/ООП/OOP_Lab4-5/OOP_Lab4-5/Resources/ybi.jpg</Photo>
+		</Book>
+		<Book>
+			<Title>Путешествия Гулливера</Title>
+			<Author>Джонатан Свифт</Author>
+			<Genre>Фэнтези</Genre>
+			<InStock>27</InStock>
+			<Rating>9</Rating>
+			<Photo>file:///C:/Users/user/Desktop/ООП/OOP_Lab4-5/OOP_Lab4-5/Resources/guliver.jpg</Photo>
+		</Book>
+		<Book>
+			<Title>Война и мир</Title>
+			<Author>Лев Толстой</Author>
+			<Genre>Роман</Genre>
+			<InStock>48</InStock>
+			<Rating>10</Rating>
+			<Photo>C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\Resources\war.jpg</Photo>
+		</Book>
+		<Book>
+			<Title>Тарас Бульба</Title>
+			<Author>Николай Гоголь</Author>
+			<Genre>Роман</Genre>
+			<InStock>50</InStock>
+			<Rating>8</Rating>
+			<Photo>C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\Resources\taras.jpg</Photo>
+		</Book>
+		<Book>
+			<Title>Горе от ума</Title>
+			<Author>Александр Грибоедов</Author>
+			<Genre>Комедия</Genre>
+			<InStock>39</InStock>
+			<Rating>10</Rating>
+			<Photo>C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\Resources\gore.jpg</Photo>
+		</Book>
+	</BooksList>
+</Library>

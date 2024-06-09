@@ -1,0 +1,112 @@
+[
+  {
+    "id": "3",
+    "type": "Грузовой",
+    "model": "Airwave",
+    "workers": [
+      {
+        "FullName": "ывапрол псрпт",
+        "JobTitle": "Пилот",
+        "Age": 22,
+        "Seniority": 1
+      },
+      {
+        "FullName": "апропим толь",
+        "JobTitle": "Стюардесса",
+        "Age": 66,
+        "Seniority": 4
+      },
+      {
+        "FullName": "вернопол щшгнпа",
+        "JobTitle": "Пилот",
+        "Age": 77,
+        "Seniority": 7
+      }
+    ],
+    "numberOfPlace": 77,
+    "carrying": 15,
+    "yearOfManufacture": "2016",
+    "technicalInspection": "20-06-2018"
+  },
+  {
+    "id": "3456789",
+    "type": "Военный",
+    "model": "Nimbus Aviation",
+    "workers": [
+      {
+        "FullName": "ывапрол псрпт",
+        "JobTitle": "Пилот",
+        "Age": 22,
+        "Seniority": 1
+      },
+      {
+        "FullName": "апропим толь",
+        "JobTitle": "Стюардесса",
+        "Age": 66,
+        "Seniority": 4
+      }
+    ],
+    "numberOfPlace": 77,
+    "carrying": 15,
+    "yearOfManufacture": "2012",
+    "technicalInspection": "12-01-2024"
+  },
+  {
+    "id": "34567897543",
+    "type": "Грузовой",
+    "model": "Nimbus Aviation",
+    "workers": [
+      {
+        "FullName": "ывапрол псрпт",
+        "JobTitle": "Пилот",
+        "Age": 22,
+        "Seniority": 1
+      },
+      {
+        "FullName": "апропим толь",
+        "JobTitle": "Стюардесса",
+        "Age": 66,
+        "Seniority": 4
+      },
+      {
+        "FullName": "вернопол щшгнпа",
+        "JobTitle": "Пилот",
+        "Age": 77,
+        "Seniority": 7
+      }
+    ],
+    "numberOfPlace": 77,
+    "carrying": 15,
+    "yearOfManufacture": "2022",
+    "technicalInspection": "12-01-2024"
+  },
+  {
+    "id": "345678975439876543",
+    "type": "Грузовой",
+    "model": "Airwave",
+    "workers": [
+      {
+        "FullName": "ывапрол псрпт",
+        "JobTitle": "Пилот",
+        "Age": 22,
+        "Seniority": 1
+      },
+      {
+        "FullName": "апропим толь",
+        "JobTitle": "Стюардесса",
+        "Age": 66,
+        "Seniority": 4
+      },
+      {
+        "FullName": "вернопол щшгнпа",
+        "JobTitle": "Пилот",
+        "Age": 77,
+        "Seniority": 7
+      }
+    ],
+    "numberOfPlace": 77,
+    "carrying": 15,
+    "yearOfManufacture": "2018",
+    "technicalInspection": "12-01-2024"
+  }
+]

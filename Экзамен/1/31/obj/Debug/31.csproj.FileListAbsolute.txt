@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\exam\1\31\bin\Debug\31.exe.config
+C:\Users\user\Desktop\exam\1\31\bin\Debug\31.exe
+C:\Users\user\Desktop\exam\1\31\bin\Debug\31.pdb
+C:\Users\user\Desktop\exam\1\31\obj\Debug\31.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\exam\1\31\obj\Debug\_31.Form1.resources
+C:\Users\user\Desktop\exam\1\31\obj\Debug\_31.Properties.Resources.resources
+C:\Users\user\Desktop\exam\1\31\obj\Debug\31.csproj.GenerateResource.cache
+C:\Users\user\Desktop\exam\1\31\obj\Debug\31.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\exam\1\31\obj\Debug\31.exe
+C:\Users\user\Desktop\exam\1\31\obj\Debug\31.pdb

@@ -1,0 +1,91 @@
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\bin\Debug\OOP_Lab4-5.exe
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\bin\Debug\OOP_Lab4-5.pdb
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\bin\Debug\System.Core.dll
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\bin\Debug\System.Xml.Linq.dll
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4-5.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\AddingFilm.baml
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\BlackTheme.baml
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\Dictionaries\EnglishDictionary.baml
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\Dictionaries\RussianDictionary.baml
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\EnglishDictionary.baml
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\RedactingFilm.baml
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\RussianDictionary.baml
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\Styles\BlackTheme.baml
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\Styles\WhiteTheme.baml
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\AddingFilm.g.cs
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\RedactingFilm.g.cs
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\ViewAllFilms.g.cs
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\App.g.cs
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4-5_MarkupCompile.cache
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4-5_MarkupCompile.lref
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\App.baml
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\ViewAllFilms.baml
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4-5.g.resources
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4_5.Properties.Resources.resources
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4-5.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4-5.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4-5.csproj.Up2Date
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4-5.exe
+C:\Users\user\Desktop\ООП\СОХРАНЕНИЕ\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4-5.pdb
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\bin\Debug\OOP_Lab4-5.exe
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\bin\Debug\System.Core.dll
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\bin\Debug\System.Xml.Linq.dll
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4-5.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\AddingBook.baml
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\BookDetailsWindow.baml
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\Dictionaries\EnglishDictionary.baml
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\Dictionaries\RussianDictionary.baml
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\RedactingBook.baml
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\Styles\BlackTheme.baml
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\Styles\WhiteTheme.baml
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\AddingBook.g.cs
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\BookDetailsWindow.g.cs
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\RedactingBook.g.cs
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\ViewAllBooks.g.cs
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\App.g.cs
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4-5_MarkupCompile.cache
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4-5_MarkupCompile.lref
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\App.baml
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\ViewAllBooks.baml
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4-5.g.resources
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4_5.Properties.Resources.resources
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4-5.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4-5.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4-5.csproj.Up2Date
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4-5.exe
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4-5.pdb
+C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\bin\Debug\OOP_Lab4-5.pdb
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\bin\Debug\OOP_Lab4-5.exe
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\bin\Debug\OOP_Lab4-5.pdb
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\bin\Debug\System.Core.dll
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\bin\Debug\System.Xml.Linq.dll
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4-5.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\AddingBook.baml
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\BookDetailsWindow.baml
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\Dictionaries\EnglishDictionary.baml
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\Dictionaries\RussianDictionary.baml
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\RedactingBook.baml
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\Styles\BlackTheme.baml
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\Styles\WhiteTheme.baml
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\AddingBook.g.cs
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\BookDetailsWindow.g.cs
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\RedactingBook.g.cs
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\ViewAllBooks.g.cs
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\App.g.cs
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4-5_MarkupCompile.cache
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4-5_MarkupCompile.lref
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\App.baml
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\ViewAllBooks.baml
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4-5.g.resources
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4_5.Properties.Resources.resources
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4-5.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4-5.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4-5.csproj.Up2Date
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4-5.exe
+C:\Users\user\Desktop\ООП\Готовые лабы\Лаба4-5\OOP_Lab4-5\OOP_Lab4-5\obj\Debug\OOP_Lab4-5.pdb

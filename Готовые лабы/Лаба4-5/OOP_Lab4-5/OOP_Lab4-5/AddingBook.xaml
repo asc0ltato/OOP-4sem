@@ -1,0 +1,137 @@
+﻿<Window x:Class="OOP_Lab4_5.AddingBook"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Добавление книги" Height="450" Width="400"
+        MinHeight="450" MinWidth="300"
+        WindowStartupLocation="Manual" Top="170" Left="400"
+        Icon="C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\Resources\icon.png">
+
+    <Grid Name="addingGrid" Style="{DynamicResource blackBackground}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <!--Надпись "Добавить книгу"-->
+        <TextBlock 
+            Grid.Row="0"  Text="{DynamicResource addingBook}"
+            HorizontalAlignment="Center" FontSize="20"
+            VerticalAlignment="Center" Grid.ColumnSpan="2">
+        </TextBlock>
+
+        <!--Название-->
+        <TextBlock
+            Grid.Row="1" Text="{DynamicResource bookName}" 
+            HorizontalAlignment="Left" Margin="10 5 0 0">
+        </TextBlock>
+        <TextBox
+            Grid.Row="1" Height="20" Width="100" MaxLength="30"
+            HorizontalAlignment="Left" Margin="10 10 0 0" Name="bookName"
+            PreviewTextInput="textBox1_PreviewTextInput">
+        </TextBox>
+
+        <!--Автор-->
+        <TextBlock
+            Grid.Row="2" Text="{DynamicResource author}"
+            HorizontalAlignment="Left" Margin="10 5 0 0">
+        </TextBlock>
+        <TextBox
+            Grid.Row="2" Height="20" Width="100" MaxLength="30"
+            HorizontalAlignment="Left" Margin="10 10 0 0" Name="bookAuthor"
+            PreviewTextInput="textBox2_PreviewTextInput">
+        </TextBox>
+
+        <!--Жанр-->
+        <TextBlock
+            Grid.Row="3" Text="{DynamicResource genre}"
+            HorizontalAlignment="Left" Margin="10 5 0 0">
+        </TextBlock>
+        <ComboBox 
+            Grid.Row="3" Height="22" Width="110" 
+            HorizontalAlignment="Left" Margin="10 10 0 0"
+            Name="genre" IsEditable="True"
+            PreviewTextInput="textBox3_PreviewTextInput">
+            <ComboBoxItem Content="{DynamicResource genRoman}"></ComboBoxItem>
+            <ComboBoxItem Content="{DynamicResource genComedy}"></ComboBoxItem>
+            <ComboBoxItem Content="{DynamicResource genDrama}"></ComboBoxItem>
+            <ComboBoxItem Content="{DynamicResource genMelodrama}"></ComboBoxItem>
+            <ComboBoxItem Content="{DynamicResource genFantastic}"></ComboBoxItem>
+            <ComboBoxItem Content="{DynamicResource genFantasy}"></ComboBoxItem>
+            <ComboBoxItem Content="{DynamicResource genThriller}"></ComboBoxItem>
+            <ComboBoxItem Content="{DynamicResource genHorror}"></ComboBoxItem>
+            <ComboBoxItem Content="{DynamicResource genWar}"></ComboBoxItem>
+            <ComboBoxItem Content="{DynamicResource genKids}"></ComboBoxItem>
+        </ComboBox>
+
+        <!--В наличии-->
+        <Grid Name="durationGrid" Grid.Row="4" Grid.Column="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100"></ColumnDefinition>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <TextBlock
+                Grid.Row="0" Text="{DynamicResource inStock}"
+                HorizontalAlignment="Left" Margin="10 10 0 0">
+            </TextBlock>
+            <TextBox
+                Grid.Row="1" Height="20" Width="80"  MaxLength="3"
+                HorizontalAlignment="Left" Margin="10 0 0 10" Name="in_stock"
+                PreviewTextInput="textBox4_PreviewTextInput">
+            </TextBox>
+            <TextBlock 
+                Name="minutes" Text="{DynamicResource pieces}" 
+                Grid.Row="1" Grid.Column="1"
+                Margin="0 4 0 0" HorizontalAlignment="Left">
+            </TextBlock>
+        </Grid>
+
+        <!--Рейтинг книги-->
+        <TextBlock
+            Grid.Row="5" Text="{DynamicResource rating}"
+            HorizontalAlignment="Left" Margin="10 5 0 0">
+        </TextBlock>
+        <TextBox
+            Grid.Row="5" Height="20" Width="100"  MaxLength="2"
+            HorizontalAlignment="Left" Margin="10 10 0 0" Name="rating"
+            PreviewTextInput="textBox5_PreviewTextInput">
+        </TextBox>
+        
+        <!--Фото-->
+        <Button Name="addPhotoButton" Grid.Row="1" Grid.Column="1" 
+                Width="100" Height="30" Content="{DynamicResource addPhotoButton}"
+                Click="addPhotoButton_Click">
+        </Button>
+        <Image Name="preview" Grid.Column="1" Grid.Row="2" Grid.RowSpan="4"
+               MinHeight="170" MinWidth="100" HorizontalAlignment="Center" Margin="10"/>
+
+        <!--Кнопка добавления-->
+        <Button Grid.Row="6" Name="addFilmButton" Width="100" 
+                Height="30" Content="{DynamicResource addBookButton}"
+                Click="addBookButton_Click">
+        </Button>
+
+        <!--Кнопка очистки-->
+        <Button Grid.Row="7" Name="deleteButton" Grid.Column="1" Width="120" 
+                Height="30" Content="{DynamicResource deleteButton}"
+                Click="deleteButton_Click">
+        </Button>
+    </Grid>
+</Window>

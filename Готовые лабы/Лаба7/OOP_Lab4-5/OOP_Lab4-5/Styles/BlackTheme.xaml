@@ -1,0 +1,218 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!--Тема приложения-->
+    <Style x:Key="BlackAndWhite">
+        <Setter Property="Control.Background">
+            <Setter.Value>
+                <LinearGradientBrush>
+                    <LinearGradientBrush.GradientStops>
+                        <GradientStop Color="#8B0000" Offset="0" />
+                        <GradientStop Color="#1f1f1f" Offset="1" />
+                    </LinearGradientBrush.GradientStops>
+                </LinearGradientBrush>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+
+    <!--Кнопки в ViewAllBooks-->
+    <Style x:Key="ButtonStyle" TargetType="Button">
+        <Setter Property="Width" Value="140"/>
+        <Setter Property="Height" Value="30"/>
+        <Setter Property="Margin" Value="41,35,38,-10"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="{TemplateBinding Background}"
+                             BorderBrush="{TemplateBinding BorderBrush}"
+                             BorderThickness="{TemplateBinding BorderThickness}"
+                             CornerRadius="15">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="ComboBoxStyle" TargetType="ComboBox">
+        <Setter Property="Width" Value="130"/>
+        <Setter Property="Height" Value="25"/>
+        <Setter Property="Margin" Value="0 25 0 0"/>
+    </Style>
+
+
+    <!--Главная кнопка-->
+    <Style x:Key="mainButton" TargetType="Button">
+        <Setter Property="Control.FontSize" Value="16"/>
+        <Setter Property="Width" Value="200"/>
+        <Setter Property="Height" Value="50"/>
+        <Setter Property="Template">
+        <Setter.Value>
+            <ControlTemplate TargetType="Button">
+                <Border CornerRadius="10" Background="White" BorderBrush="Black" BorderThickness="1">
+                    <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </Border>
+            </ControlTemplate>
+        </Setter.Value>
+        </Setter>
+
+        <!--Мультитриггер для главной кнопки-->
+        <Style.Triggers>
+            <MultiTrigger>
+                <MultiTrigger.Conditions>
+                    <Condition Property="IsMouseOver" Value="True" />
+                    <Condition Property="IsPressed" Value="True" />
+                </MultiTrigger.Conditions>
+                <MultiTrigger.Setters>
+                    <Setter Property="Width" Value="210" />
+                    <Setter Property="Height" Value="60" />
+                    <Setter Property="FontSize" Value="17" />
+                </MultiTrigger.Setters>
+            </MultiTrigger>
+        </Style.Triggers>
+    </Style>
+
+    <!--Дататриггеры для добавления книги-->
+    <Style x:Key="focusTitle" TargetType="TextBlock">
+        <Style.Triggers>
+            <DataTrigger Binding="{Binding ElementName=bookName, Path=IsFocused}" Value="True">
+                <Setter Property="FontSize" Value="13"/>
+            </DataTrigger>
+        </Style.Triggers>
+    </Style>
+
+    <Style x:Key="focusAuthor" TargetType="TextBlock">
+        <Style.Triggers>
+            <DataTrigger Binding="{Binding ElementName=bookAuthor, Path=IsFocused}" Value="True">
+                <Setter Property="FontSize" Value="13"/>
+            </DataTrigger>
+        </Style.Triggers>
+    </Style>
+
+    <Style x:Key="focusStock" TargetType="TextBlock">
+        <Style.Triggers>
+            <DataTrigger Binding="{Binding ElementName=in_stock, Path=IsFocused}" Value="True">
+                <Setter Property="FontSize" Value="13"/>
+            </DataTrigger>
+        </Style.Triggers>
+    </Style>
+
+    <Style x:Key="focusRate" TargetType="TextBlock">
+        <Style.Triggers>
+            <DataTrigger Binding="{Binding ElementName=rating, Path=IsFocused}" Value="True">
+                <Setter Property="FontSize" Value="13"/>
+            </DataTrigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="focusGen" TargetType="TextBlock">
+        <Style.Triggers>
+            <DataTrigger Binding="{Binding ElementName=genre, Path=SelectedItem.Content}" Value="Роман">
+                <Setter Property="FontSize" Value="13"/>
+            </DataTrigger>
+            <DataTrigger Binding="{Binding ElementName=genre, Path=SelectedItem.Content}" Value="Комедия">
+                <Setter Property="FontSize" Value="13"/>
+            </DataTrigger>
+            <DataTrigger Binding="{Binding ElementName=genre, Path=SelectedItem.Content}" Value="Драма">
+                <Setter Property="FontSize" Value="13"/>
+            </DataTrigger>
+            <DataTrigger Binding="{Binding ElementName=genre, Path=SelectedItem.Content}" Value="Мелодрама">
+                <Setter Property="FontSize" Value="13"/>
+            </DataTrigger>
+            <DataTrigger Binding="{Binding ElementName=genre, Path=SelectedItem.Content}" Value="Фантастика">
+                <Setter Property="FontSize" Value="13"/>
+            </DataTrigger>
+            <DataTrigger Binding="{Binding ElementName=genre, Path=SelectedItem.Content}" Value="Фэнтези">
+                <Setter Property="FontSize" Value="13"/>
+            </DataTrigger>
+            <DataTrigger Binding="{Binding ElementName=genre, Path=SelectedItem.Content}" Value="Триллер">
+                <Setter Property="FontSize" Value="13"/>
+            </DataTrigger>
+            <DataTrigger Binding="{Binding ElementName=genre, Path=SelectedItem.Content}" Value="Хоррор">
+                <Setter Property="FontSize" Value="13"/>
+            </DataTrigger>
+            <DataTrigger Binding="{Binding ElementName=genre, Path=SelectedItem.Content}" Value="Детский">
+                <Setter Property="FontSize" Value="13"/>
+            </DataTrigger>
+            <DataTrigger Binding="{Binding ElementName=genre, Path=SelectedItem.Content}" Value="Военный">
+                <Setter Property="FontSize" Value="13"/>
+            </DataTrigger>
+        </Style.Triggers>
+    </Style>
+
+    <!--ИвентТриггеры-->
+    <Style x:Key="logoShowOnLoad" TargetType="Image">
+        <Style.Setters>
+            <Setter Property="Width" Value="350"/>
+        </Style.Setters>
+        <Style.Triggers>
+            <EventTrigger RoutedEvent="Loaded">
+                <EventTrigger.Actions>
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetProperty="Width" 
+                                         From="0" To="300" Duration="0:0:0.5"  />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger.Actions>
+            </EventTrigger>
+        </Style.Triggers>
+    </Style>
+    
+    <Style x:Key="logoShowOnLoadMain" TargetType="Image">
+        <Style.Setters>
+            <Setter Property="Width" Value="350"/>
+        </Style.Setters>
+        <Style.Triggers>
+            <EventTrigger RoutedEvent="Loaded">
+                <EventTrigger.Actions>
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetProperty="Width" 
+                                     From="0" To="600" Duration="0:0:0.3"  />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger.Actions>
+            </EventTrigger>
+        </Style.Triggers>
+    </Style>
+
+
+
+    <!--Шаблоны для кнопок в ViewAllFilms-->
+    <ControlTemplate x:Key="templateSearch" TargetType="Button">
+        <Border Height="30" Width="140" CornerRadius="10" Background="AliceBlue">
+            <ContentControl HorizontalAlignment="Center" VerticalAlignment="Center" Content="{DynamicResource search}" Foreground="Black"></ContentControl>
+        </Border>
+    </ControlTemplate>
+
+    <ControlTemplate x:Key="templateAdd" TargetType="Button">
+        <Border Height="30" Width="140" CornerRadius="10" Background="AliceBlue">
+            <ContentControl HorizontalAlignment="Center" VerticalAlignment="Center" Content="{DynamicResource addingBook}" Foreground="Black"></ContentControl>
+        </Border>
+    </ControlTemplate>
+
+    <ControlTemplate x:Key="templateRedact" TargetType="Button">
+        <Border Height="30" Width="140" CornerRadius="10" Background="AliceBlue">
+            <ContentControl HorizontalAlignment="Center" VerticalAlignment="Center" Content="{DynamicResource redact}" Foreground="Black"></ContentControl>
+        </Border>
+    </ControlTemplate>
+
+    <ControlTemplate x:Key="templateDel" TargetType="Button">
+        <Border Height="30" Width="140" CornerRadius="10" Background="AliceBlue">
+            <ContentControl HorizontalAlignment="Center" VerticalAlignment="Center" Content="{DynamicResource delete}" Foreground="Black"></ContentControl>
+        </Border>
+    </ControlTemplate>
+
+    <ControlTemplate x:Key="templateAll" TargetType="Button">
+        <Border Height="30" Width="140" CornerRadius="10" Background="AliceBlue">
+            <ContentControl HorizontalAlignment="Center" VerticalAlignment="Center" Content="{DynamicResource showAll}" Foreground="Black"></ContentControl>
+        </Border>
+    </ControlTemplate>
+
+    <ControlTemplate x:Key="templateFilter" TargetType="Button">
+        <Border Height="30" Width="140" CornerRadius="10" Background="AliceBlue">
+            <ContentControl HorizontalAlignment="Center" VerticalAlignment="Center" Content="{DynamicResource filter}" Foreground="Black"></ContentControl>
+        </Border>
+    </ControlTemplate>
+</ResourceDictionary>

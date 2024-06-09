@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1",
+    "type": "Военный",
+    "model": "Airwave",
+    "workers": [
+      {
+        "FullName": "дпыва",
+        "JobTitle": "Пилот",
+        "Age": 18,
+        "Seniority": 0
+      }
+    ],
+    "numberOfPlace": 54,
+    "carrying": 53,
+    "yearOfManufacture": "2024",
+    "technicalInspection": "01-01-2024"
+  }
+]

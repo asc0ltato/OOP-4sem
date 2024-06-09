@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1",
+    "type": "Военный",
+    "model": "Starflyer",
+    "workers": [
+      {
+        "FullName": "Жук",
+        "JobTitle": "Стюардесса",
+        "Age": 18,
+        "Seniority": 0
+      }
+    ],
+    "numberOfPlace": 60,
+    "carrying": 37,
+    "yearOfManufacture": "2024",
+    "technicalInspection": "01-01-2024"
+  }
+]

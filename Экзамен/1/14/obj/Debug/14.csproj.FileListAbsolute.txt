@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\exam\1\14\bin\Debug\14.exe.config
+C:\Users\user\Desktop\exam\1\14\bin\Debug\14.exe
+C:\Users\user\Desktop\exam\1\14\bin\Debug\14.pdb
+C:\Users\user\Desktop\exam\1\14\obj\Debug\14.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\exam\1\14\obj\Debug\_14.Form1.resources
+C:\Users\user\Desktop\exam\1\14\obj\Debug\_14.Properties.Resources.resources
+C:\Users\user\Desktop\exam\1\14\obj\Debug\14.csproj.GenerateResource.cache
+C:\Users\user\Desktop\exam\1\14\obj\Debug\14.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\exam\1\14\obj\Debug\14.exe
+C:\Users\user\Desktop\exam\1\14\obj\Debug\14.pdb

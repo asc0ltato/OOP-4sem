@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "type": "Пассажирский",
+    "model": "Starflyer",
+    "workers": [
+      {
+        "FullName": "Жук",
+        "JobTitle": "Пилот",
+        "Age": 18,
+        "Seniority": 0
+      }
+    ],
+    "numberOfPlace": 10,
+    "carrying": 1,
+    "yearOfManufacture": "2024",
+    "technicalInspection": "01-01-2024"
+  }
+]  },
+  {
+    "id": "2",
+    "type": "Военный",
+    "model": "BlueBird Airlines",
+    "workers": [
+      {
+        "FullName": "ждаужфл",
+        "JobTitle": "Пилот",
+        "Age": 18,
+        "Seniority": 0
+      }
+    ],
+    "numberOfPlace": 90,
+    "carrying": 1,
+    "yearOfManufacture": "2024",
+    "technicalInspection": "01-01-2024"
+  }
+]

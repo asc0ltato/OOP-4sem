@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\exam\1\21\obj\Debug\21.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\exam\1\21\obj\Debug\_21.Form1.resources
+C:\Users\user\Desktop\exam\1\21\obj\Debug\_21.Form2.resources
+C:\Users\user\Desktop\exam\1\21\obj\Debug\_21.Properties.Resources.resources
+C:\Users\user\Desktop\exam\1\21\obj\Debug\21.csproj.GenerateResource.cache
+C:\Users\user\Desktop\exam\1\21\obj\Debug\21.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\exam\1\21\bin\Debug\21.exe.config
+C:\Users\user\Desktop\exam\1\21\bin\Debug\21.exe
+C:\Users\user\Desktop\exam\1\21\bin\Debug\21.pdb
+C:\Users\user\Desktop\exam\1\21\obj\Debug\21.exe
+C:\Users\user\Desktop\exam\1\21\obj\Debug\21.pdb

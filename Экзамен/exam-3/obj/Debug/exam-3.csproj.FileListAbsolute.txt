@@ -1,0 +1,11 @@
+E:\уник\c\exam\exam-3\obj\Debug\exam-3.csproj.AssemblyReference.cache
+E:\уник\c\exam\exam-3\obj\Debug\exam_3.Form1.resources
+E:\уник\c\exam\exam-3\obj\Debug\exam_3.Form2.resources
+E:\уник\c\exam\exam-3\obj\Debug\exam_3.Properties.Resources.resources
+E:\уник\c\exam\exam-3\obj\Debug\exam-3.csproj.GenerateResource.cache
+E:\уник\c\exam\exam-3\obj\Debug\exam-3.csproj.CoreCompileInputs.cache
+E:\уник\c\exam\exam-3\bin\Debug\exam-3.exe.config
+E:\уник\c\exam\exam-3\bin\Debug\exam-3.exe
+E:\уник\c\exam\exam-3\bin\Debug\exam-3.pdb
+E:\уник\c\exam\exam-3\obj\Debug\exam-3.exe
+E:\уник\c\exam\exam-3\obj\Debug\exam-3.pdb

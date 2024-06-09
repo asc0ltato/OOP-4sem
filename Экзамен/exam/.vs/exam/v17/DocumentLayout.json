@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\exam\\exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD86564A-14C0-4158-90A5-D529E085EC8E}|..\\exam-6\\exam-6.csproj|c:\\users\\user\\desktop\\exam\\exam-6\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD86564A-14C0-4158-90A5-D529E085EC8E}|..\\exam-6\\exam-6.csproj|c:\\users\\user\\desktop\\exam\\exam-6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DE687A-C4B4-4E58-BF15-F4700CE08044}|..\\exam-5\\exam-5.csproj|c:\\users\\user\\desktop\\exam\\exam-5\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DE687A-C4B4-4E58-BF15-F4700CE08044}|..\\exam-5\\exam-5.csproj|c:\\users\\user\\desktop\\exam\\exam-5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DFDC76-B2AF-4C05-AE1D-A8A199231FDA}|..\\exam-4\\exam-4.csproj|c:\\users\\user\\desktop\\exam\\exam-4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DFDC76-B2AF-4C05-AE1D-A8A199231FDA}|..\\exam-4\\exam-4.csproj|c:\\users\\user\\desktop\\exam\\exam-4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DFDC76-B2AF-4C05-AE1D-A8A199231FDA}|..\\exam-4\\exam-4.csproj|c:\\users\\user\\desktop\\exam\\exam-4\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DFDC76-B2AF-4C05-AE1D-A8A199231FDA}|..\\exam-4\\exam-4.csproj|c:\\users\\user\\desktop\\exam\\exam-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F222F52-B164-4062-BA7D-02090EA8BFB5}|..\\exam-3\\exam-3.csproj|c:\\users\\user\\desktop\\exam\\exam-3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F222F52-B164-4062-BA7D-02090EA8BFB5}|..\\exam-3\\exam-3.csproj|c:\\users\\user\\desktop\\exam\\exam-3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F222F52-B164-4062-BA7D-02090EA8BFB5}|..\\exam-3\\exam-3.csproj|c:\\users\\user\\desktop\\exam\\exam-3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F222F52-B164-4062-BA7D-02090EA8BFB5}|..\\exam-3\\exam-3.csproj|c:\\users\\user\\desktop\\exam\\exam-3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3976A7-2500-41E4-8069-3385F1EBEEA2}|..\\exam-2\\exam-2.csproj|c:\\users\\user\\desktop\\exam\\exam-2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3976A7-2500-41E4-8069-3385F1EBEEA2}|..\\exam-2\\exam-2.csproj|c:\\users\\user\\desktop\\exam\\exam-2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3976A7-2500-41E4-8069-3385F1EBEEA2}|..\\exam-2\\exam-2.csproj|c:\\users\\user\\desktop\\exam\\exam-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAD3848-E90B-49FB-B08D-21C0B14623A3}|exam.csproj|c:\\users\\user\\desktop\\exam\\exam\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFAD3848-E90B-49FB-B08D-21C0B14623A3}|exam.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAD3848-E90B-49FB-B08D-21C0B14623A3}|exam.csproj|c:\\users\\user\\desktop\\exam\\exam\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{BFAD3848-E90B-49FB-B08D-21C0B14623A3}|exam.csproj|solutionrelative:mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893C2C70-6542-4C69-A00A-3E7AA0A484C5}|..\\counter\\counter.csproj|c:\\users\\user\\desktop\\exam\\counter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893C2C70-6542-4C69-A00A-3E7AA0A484C5}|..\\counter\\counter.csproj|c:\\users\\user\\desktop\\exam\\counter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAD3848-E90B-49FB-B08D-21C0B14623A3}|exam.csproj|c:\\users\\user\\desktop\\exam\\exam\\exam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BFAD3848-E90B-49FB-B08D-21C0B14623A3}|exam.csproj|solutionrelative:exam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DE687A-C4B4-4E58-BF15-F4700CE08044}|..\\exam-5\\exam-5.csproj|c:\\users\\user\\desktop\\exam\\exam-5\\exam-5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\exam-4\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\exam-4\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\exam-4\\Form1.cs",
+              "RelativeToolTip": "..\\exam-4\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:44:16.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\exam-4\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\exam-4\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\exam-4\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\exam-4\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:44:13.778Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\exam-4\\App.config",
+              "RelativeDocumentMoniker": "..\\exam-4\\App.config",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\exam-4\\App.config",
+              "RelativeToolTip": "..\\exam-4\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-06T06:44:12.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\exam-4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\exam-4\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\exam-4\\Program.cs",
+              "RelativeToolTip": "..\\exam-4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:44:11.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\exam-3\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\exam-3\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\exam-3\\Form1.cs",
+              "RelativeToolTip": "..\\exam-3\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:43:37.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\exam-3\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\exam-3\\Form2.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\exam-3\\Form2.cs",
+              "RelativeToolTip": "..\\exam-3\\Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:43:33.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\exam-3\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\exam-3\\Form2.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\exam-3\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\exam-3\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:43:28.017Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\exam-3\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\exam-3\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\exam-3\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\exam-3\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:43:26.117Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\exam-2\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\exam-2\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\exam-2\\Form1.cs",
+              "RelativeToolTip": "..\\exam-2\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:42:27.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\exam-2\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\exam-2\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\exam-2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\exam-2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:42:22.204Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\exam-2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\exam-2\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\exam-2\\Program.cs",
+              "RelativeToolTip": "..\\exam-2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:42:19.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\exam\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\exam\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:42:07.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\counter\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\counter\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\counter\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\counter\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:41:19.119Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\exam\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\exam\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T06:41:12.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "exam",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\exam\\exam.csproj",
+              "RelativeDocumentMoniker": "exam.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\exam\\exam.csproj",
+              "RelativeToolTip": "exam.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T06:41:08.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\exam-5\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\exam-5\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\exam-5\\MainWindow.xaml",
+              "RelativeToolTip": "..\\exam-5\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-04T18:31:11.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\exam-6\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\exam-6\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\exam-6\\MainWindow.xaml",
+              "RelativeToolTip": "..\\exam-6\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-04T18:30:18.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\exam-6\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\exam-6\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\exam-6\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\exam-6\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:30:11.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "exam-5.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\exam-5\\exam-5.csproj",
+              "RelativeDocumentMoniker": "..\\exam-5\\exam-5.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\exam-5\\exam-5.csproj",
+              "RelativeToolTip": "..\\exam-5\\exam-5.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-04T17:31:37.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\exam-5\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\exam-5\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\exam-5\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\exam-5\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:30:57.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\exam\\counter\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\counter\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\exam\\counter\\Form1.cs",
+              "RelativeToolTip": "..\\counter\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:10:42.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

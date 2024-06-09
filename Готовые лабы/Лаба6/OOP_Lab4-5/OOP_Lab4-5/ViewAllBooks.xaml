@@ -1,0 +1,116 @@
+﻿<Window x:Class="OOP_Lab4_5.ViewAllBooks"
+            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+            xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+            xmlns:local="clr-namespace:OOP_Lab4_5"
+            mc:Ignorable="d"
+            Title="Управление книгами" Height="528" Width="1000"
+            MinHeight="528" MinWidth="1000" WindowStartupLocation="CenterScreen"
+            Icon="C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\Resources\icon.png">
+
+    <Window.CommandBindings>
+        <CommandBinding Command="Find" Executed="CommandBinding_Executed_1"/>
+        <CommandBinding Command="New" Executed="CommandBinding_Executed_2"/>
+        <CommandBinding Command="Paste" Executed="CommandBinding_Executed_3"/>
+        <CommandBinding Command="Delete" Executed="CommandBinding_Executed_4"/>
+        <CommandBinding Command="Refresh" Executed="CommandBinding_Executed_5"/>
+        <CommandBinding Command="Cut" Executed="CommandBinding_Executed_6"/>
+    </Window.CommandBindings>
+
+    <Grid Name="mainGrid" Style="{DynamicResource BlackAndWhite}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="3.5*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <!--Боковое меню-->
+        <Grid Name="leftMenu" Grid.Row="1" Grid.Column="0">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.8*"></RowDefinition>
+                <RowDefinition Height="1.2*"></RowDefinition>
+                <RowDefinition Height="1*"></RowDefinition>
+                <RowDefinition Height="1*"></RowDefinition>
+                <RowDefinition Height="1*"></RowDefinition>
+                <RowDefinition Height="1*"></RowDefinition>
+                <RowDefinition Height="1.4*"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Button Name="undoButton" Width="40" Height="40" HorizontalAlignment="Left"
+            Margin="60 0 0 0" Grid.Row="0" Background="Transparent" BorderThickness="0" Click="undoButton_Click">
+                <Image Source="C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\Resources\undo.png" Margin="3" />
+            </Button>
+
+            <Button Name="redoButton" Width="40" Height="40" HorizontalAlignment="Right"
+            Margin="0 0 60 0" Grid.Row="0" Background="Transparent" BorderThickness="0" Click="redoButton_Click">
+                <Image Source="C:\Users\user\Desktop\ООП\OOP_Lab4-5\OOP_Lab4-5\Resources\redo.png" Margin="3" />
+            </Button>
+
+            <local:UserControl1 Height="25" x:Name="searchBox"
+                    Grid.Row="1" VerticalAlignment="Top" Margin="41,0,32,0"/>
+            <Button Name="searchButton"  Grid.Row="1" Style="{StaticResource ButtonStyle}" Content="{DynamicResource search}" Template="{DynamicResource templateSearch}" Command="Find" Margin="0 0 0 -40"/>
+            <Button Name="addButton" Grid.Row="2" Style="{StaticResource ButtonStyle}" Content="{DynamicResource addingBook}" Template="{DynamicResource templateAdd}" Command="New" Margin="0 0 0 5"/>
+            <Button Name="redactButton" Grid.Row="3" Style="{StaticResource ButtonStyle}" Content="{DynamicResource redact}" Template="{DynamicResource templateRedact}" Command="Paste" Margin="0 0 0 5"/>
+            <Button Name="deleteButton" Grid.Row="4" Style="{StaticResource ButtonStyle}" Content="{DynamicResource delete}" Template="{DynamicResource templateDel}" Command="Delete" Margin="0 0 0 5"/>
+            <Button Name="showButton" Grid.Row="5" Style="{StaticResource ButtonStyle}" Content="{DynamicResource showAll}" Template="{DynamicResource templateAll}" Command="Refresh" Margin="0 0 0 5"/>
+
+            <ComboBox Name="comboBoxFilterSelect" Grid.Row="6" Style="{StaticResource ComboBoxStyle}" HorizontalAlignment="Center" VerticalAlignment="Top"  Margin="0 10 0 0">
+                <ComboBoxItem Content="{DynamicResource genRoman}"></ComboBoxItem>
+                <ComboBoxItem Content="{DynamicResource genComedy}"></ComboBoxItem>
+                <ComboBoxItem Content="{DynamicResource genDrama}"></ComboBoxItem>
+                <ComboBoxItem Content="{DynamicResource genMelodrama}"></ComboBoxItem>
+                <ComboBoxItem Content="{DynamicResource genFantastic}"></ComboBoxItem>
+                <ComboBoxItem Content="{DynamicResource genFantasy}"></ComboBoxItem>
+                <ComboBoxItem Content="{DynamicResource genThriller}"></ComboBoxItem>
+                <ComboBoxItem Content="{DynamicResource genHorror}"></ComboBoxItem>
+                <ComboBoxItem Content="{DynamicResource genWar}"></ComboBoxItem>
+                <ComboBoxItem Content="{DynamicResource genKids}"></ComboBoxItem>
+            </ComboBox>
+
+            <Button Name="filterButton" Grid.Row="7" Style="{StaticResource ButtonStyle}" Content="{DynamicResource filter}" Template="{DynamicResource templateFilter}" Command="Cut" VerticalAlignment="Bottom" Margin="0 0 0 10"/>
+        </Grid>
+
+
+        <Button Name="back" Click="back_Click" Width="40" Height="40" HorizontalAlignment="Left" Margin="10" Padding="5" IsCancel="True" Background="{x:Null}" BorderBrush="{x:Null}">
+            <Image Source="/Resources/srt.png"></Image>
+        </Button>
+
+        <Image Source="/Resources/banner.png" Grid.Row="0" Style="{DynamicResource logoShowOnLoad}" Margin="103,10,326,10" Grid.Column="1"/>
+
+        <ListView Name="tableView" Grid.Row="1" Grid.Column="1"  MouseDoubleClick="tableView_MouseDoubleClick">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn  Width="246" Header="{DynamicResource bookName}">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Title}" TextWrapping="Wrap" FontSize="16" Foreground="#99aab5" Margin="30,0,0,0"></TextBlock>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+
+                    <GridViewColumn  Width="246" Header="{DynamicResource author}">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Author}" TextWrapping="Wrap" FontSize="16" Foreground="#99aab5" Margin="30,0,0,0"></TextBlock>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+
+                    <GridViewColumn  Width="247" Header="{DynamicResource photo}">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Image Source="{Binding Photo}" Width="80" Height="80" Margin="80 0 0 0" HorizontalAlignment="Center"></Image>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

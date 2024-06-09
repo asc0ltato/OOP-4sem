@@ -1,0 +1,42 @@
+C:\Users\user\Desktop\ООП\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.exe
+C:\Users\user\Desktop\ООП\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.deps.json
+C:\Users\user\Desktop\ООП\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\user\Desktop\ООП\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.dll
+C:\Users\user\Desktop\ООП\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.pdb
+C:\Users\user\Desktop\ООП\WinFormsApp2\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Desktop\ООП\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ООП\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.Form1.resources
+C:\Users\user\Desktop\ООП\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ООП\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ООП\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ООП\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\user\Desktop\ООП\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ООП\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.dll
+C:\Users\user\Desktop\ООП\WinFormsApp2\obj\Debug\net7.0-windows\refint\WinFormsApp2.dll
+C:\Users\user\Desktop\ООП\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.pdb
+C:\Users\user\Desktop\ООП\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\user\Desktop\ООП\WinFormsApp2\obj\Debug\net7.0-windows\ref\WinFormsApp2.dll
+C:\Users\user\Desktop\ООП\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.Form2.resources
+C:\Users\user\Desktop\ООП\WinFormsApp2\obj\Debug\net7.0-windows\WinForms.CF340A35.Up2Date
+C:\Users\user\Desktop\ООП\Готовые лабы\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.exe
+C:\Users\user\Desktop\ООП\Готовые лабы\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.deps.json
+C:\Users\user\Desktop\ООП\Готовые лабы\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\user\Desktop\ООП\Готовые лабы\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.dll
+C:\Users\user\Desktop\ООП\Готовые лабы\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.pdb
+C:\Users\user\Desktop\ООП\Готовые лабы\WinFormsApp2\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Desktop\ООП\Готовые лабы\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ООП\Готовые лабы\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.Form1.resources
+C:\Users\user\Desktop\ООП\Готовые лабы\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.Form2.resources
+C:\Users\user\Desktop\ООП\Готовые лабы\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ООП\Готовые лабы\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ООП\Готовые лабы\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ООП\Готовые лабы\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\user\Desktop\ООП\Готовые лабы\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ООП\Готовые лабы\WinFormsApp2\obj\Debug\net7.0-windows\WinForms.CF340A35.Up2Date
+C:\Users\user\Desktop\ООП\Готовые лабы\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.dll
+C:\Users\user\Desktop\ООП\Готовые лабы\WinFormsApp2\obj\Debug\net7.0-windows\refint\WinFormsApp2.dll
+C:\Users\user\Desktop\ООП\Готовые лабы\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.pdb
+C:\Users\user\Desktop\ООП\Готовые лабы\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\user\Desktop\ООП\Готовые лабы\WinFormsApp2\obj\Debug\net7.0-windows\ref\WinFormsApp2.dll
+C:\Users\user\Desktop\ООП\Готовые лабы\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.Form3.resources
+C:\Users\user\Desktop\ООП\Готовые лабы\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.Properties.Resources.resources

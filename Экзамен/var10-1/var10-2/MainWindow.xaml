@@ -1,0 +1,32 @@
+﻿<Window x:Class="var10_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:var10_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="180" Width="303">
+    <Window.Resources>
+        <local:DivisionConverter x:Key="DivisionConverter"/>
+    </Window.Resources>
+    <Grid>
+        <StackPanel Margin="10" HorizontalAlignment="Center">
+            <TextBox x:Name="txtNumber1" Margin="5"/>
+            <TextBox x:Name="txtNumber2" Margin="5"/>
+            <TextBlock x:Name="resultText" Margin="5">
+                <TextBlock.Style>
+                    <Style TargetType="TextBlock">
+                        <Setter Property="Text">
+                            <Setter.Value>
+                                <MultiBinding Converter="{StaticResource DivisionConverter}">
+                                    <Binding ElementName="txtNumber1" Path="Text"/>
+                                    <Binding ElementName="txtNumber2" Path="Text"/>
+                                </MultiBinding>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </TextBlock.Style>
+            </TextBlock>
+        </StackPanel>
+    </Grid>
+</Window>

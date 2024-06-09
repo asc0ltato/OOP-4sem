@@ -1,0 +1,390 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\viewallbooks.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|solutionrelative:viewallbooks.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|solutionrelative:usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\viewallbooks.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|solutionrelative:viewallbooks.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|c:\\users\\user\\desktop\\\u043E\u043E\u043F\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u043B\u0430\u0431\u04306\\oop_lab4-5\\oop_lab4-5\\styles\\blacktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|solutionrelative:styles\\blacktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|solutionrelative:mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|c:\\users\\user\\desktop\\\u043E\u043E\u043F\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u043B\u0430\u0431\u04306\\oop_lab4-5\\oop_lab4-5\\styles\\whitetheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|solutionrelative:styles\\whitetheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|c:\\users\\user\\desktop\\\u043E\u043E\u043F\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u043B\u0430\u0431\u04306\\oop_lab4-5\\oop_lab4-5\\dictionaries\\englishdictionary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|solutionrelative:dictionaries\\englishdictionary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\usercontrol1.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|solutionrelative:usercontrol1.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\addingbook.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|solutionrelative:addingbook.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\redactingbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|solutionrelative:redactingbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\addingbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|solutionrelative:addingbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\classes\\datatransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|solutionrelative:classes\\datatransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\resources\\booksold.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|solutionrelative:resources\\booksold.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\resources\\books.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|solutionrelative:resources\\books.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\redactingbook.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|solutionrelative:redactingbook.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\bookdetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|solutionrelative:bookdetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\bookdetailswindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|solutionrelative:bookdetailswindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\classes\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|solutionrelative:classes\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\classes\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E779DD-4B66-4EB7-9FC0-6057AEA1687B}|OOP_Lab4-5.csproj|solutionrelative:classes\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlackTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\Styles\\BlackTheme.xaml",
+              "RelativeDocumentMoniker": "Styles\\BlackTheme.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\Styles\\BlackTheme.xaml",
+              "RelativeToolTip": "Styles\\BlackTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T12:24:47.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:45:06.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T19:33:50.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewAllBooks.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\ViewAllBooks.xaml.cs",
+              "RelativeDocumentMoniker": "ViewAllBooks.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\ViewAllBooks.xaml.cs",
+              "RelativeToolTip": "ViewAllBooks.xaml.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAJ4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T16:42:40.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewAllBooks.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\ViewAllBooks.xaml",
+              "RelativeDocumentMoniker": "ViewAllBooks.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\ViewAllBooks.xaml",
+              "RelativeToolTip": "ViewAllBooks.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-15T17:04:25.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WhiteTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\Styles\\WhiteTheme.xaml",
+              "RelativeDocumentMoniker": "Styles\\WhiteTheme.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\Styles\\WhiteTheme.xaml",
+              "RelativeToolTip": "Styles\\WhiteTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T13:38:02.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:34:04.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl1.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\UserControl1.xaml",
+              "RelativeDocumentMoniker": "UserControl1.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\UserControl1.xaml",
+              "RelativeToolTip": "UserControl1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T19:49:26.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T19:35:01.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnglishDictionary.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\Dictionaries\\EnglishDictionary.xaml",
+              "RelativeDocumentMoniker": "Dictionaries\\EnglishDictionary.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\Dictionaries\\EnglishDictionary.xaml",
+              "RelativeToolTip": "Dictionaries\\EnglishDictionary.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T13:37:34.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserControl1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\UserControl1.xaml.cs",
+              "RelativeDocumentMoniker": "UserControl1.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\UserControl1.xaml.cs",
+              "RelativeToolTip": "UserControl1.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:18:44.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddingBook.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\AddingBook.xaml.cs",
+              "RelativeDocumentMoniker": "AddingBook.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\AddingBook.xaml.cs",
+              "RelativeToolTip": "AddingBook.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T22:06:47.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "books.xml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\Resources\\books.xml",
+              "RelativeDocumentMoniker": "Resources\\books.xml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\Resources\\books.xml",
+              "RelativeToolTip": "Resources\\books.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-15T15:52:47.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataTransfer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\Classes\\DataTransfer.cs",
+              "RelativeDocumentMoniker": "Classes\\DataTransfer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\Classes\\DataTransfer.cs",
+              "RelativeToolTip": "Classes\\DataTransfer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:24:58.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RedactingBook.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\RedactingBook.xaml.cs",
+              "RelativeDocumentMoniker": "RedactingBook.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\RedactingBook.xaml.cs",
+              "RelativeToolTip": "RedactingBook.xaml.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAAwLgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:26:11.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookDetailsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\BookDetailsWindow.xaml",
+              "RelativeDocumentMoniker": "BookDetailsWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\BookDetailsWindow.xaml",
+              "RelativeToolTip": "BookDetailsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T19:47:27.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "booksOld.xml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\Resources\\booksOld.xml",
+              "RelativeDocumentMoniker": "Resources\\booksOld.xml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\Resources\\booksOld.xml",
+              "RelativeToolTip": "Resources\\booksOld.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-15T19:25:04.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RedactingBook.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\RedactingBook.xaml",
+              "RelativeDocumentMoniker": "RedactingBook.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\RedactingBook.xaml",
+              "RelativeToolTip": "RedactingBook.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T19:47:55.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\Classes\\Book.cs",
+              "RelativeDocumentMoniker": "Classes\\Book.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\Classes\\Book.cs",
+              "RelativeToolTip": "Classes\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T21:54:32.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddingBook.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\AddingBook.xaml",
+              "RelativeDocumentMoniker": "AddingBook.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\AddingBook.xaml",
+              "RelativeToolTip": "AddingBook.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T19:46:38.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-16T19:32:55.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookDetailsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\BookDetailsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BookDetailsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\BookDetailsWindow.xaml.cs",
+              "RelativeToolTip": "BookDetailsWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T22:02:32.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\Classes\\Library.cs",
+              "RelativeDocumentMoniker": "Classes\\Library.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041E\u041E\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04306\\OOP_Lab4-5\\OOP_Lab4-5\\Classes\\Library.cs",
+              "RelativeToolTip": "Classes\\Library.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:01:58.857Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
